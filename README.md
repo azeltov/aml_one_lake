@@ -7,5 +7,12 @@ Follow the "Configure data access" section in the article  to setup onelake and 
 
 https://learn.microsoft.com/en-us/azure/machine-learning/how-to-use-batch-fabric?view=azureml-api-2
 
+My one-lake setup look like this:
+
+![image](https://github.com/azeltov/aml_one_lake/assets/5873303/7945ea31-c6a2-4d28-95ac-445206bb6fca)
+
+copy the url , you will need this to customize in your notebook:
+
+https://onelake.dfs.fabric.microsoft.com/amldemo/amlsilver.Lakehouse/Files/data-aml
 
 
