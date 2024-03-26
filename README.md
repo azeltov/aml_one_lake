@@ -3,7 +3,7 @@ You can use OneLake's capability to create shortcuts within a Lakehouse to read 
 
 ![image](https://github.com/azeltov/aml_one_lake/assets/5873303/51c5babd-843b-44d5-af43-2ee74043ae59)
 
-Currently you can only configure onelake access in AML using SDK or CLI right now, UI setup coming soon:
+
 
 Follow the "Configure data access" section in the article  to setup onelake and access before running the notebook: 
 
@@ -29,5 +29,5 @@ and data asset :
 
 ![image](https://github.com/azeltov/aml_one_lake/assets/5873303/5365d064-fec6-4abc-bea5-e47cb97d6538)
 
-
+Currently you can only configure onelake access in AML using SDK or CLI right now, UI setup coming soon
 
