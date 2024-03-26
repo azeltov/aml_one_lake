@@ -15,4 +15,9 @@ copy the url , you will need this to customize in your notebook:
 
 https://onelake.dfs.fabric.microsoft.com/amldemo/amlsilver.Lakehouse/Files/data-aml
 
+In the notebook you will need to plug in your onelake info in the cell like here:
+
+![image](https://github.com/azeltov/aml_one_lake/assets/5873303/92c7c2d2-ccf6-4bbf-b6e7-34d4004ee260)
+
+
 
