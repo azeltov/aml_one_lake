@@ -31,3 +31,6 @@ and data asset :
 
 Currently you can only configure onelake access in AML using SDK or CLI right now, UI setup coming soon
 
+References:
+* https://learn.microsoft.com/en-us/azure/machine-learning/how-to-datastore?view=azureml-api-2&tabs=sdk-identity-based-access%2Csdk-adls-identity-access%2Csdk-azfiles-accountkey%2Csdk-adlsgen1-identity-access%2Csdk-onelake-identity-access
+* https://learn.microsoft.com/en-us/azure/machine-learning/how-to-use-batch-fabric?view=azureml-api-2
