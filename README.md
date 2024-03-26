@@ -3,3 +3,9 @@ You can use OneLake's capability to create shortcuts within a Lakehouse to read 
 
 ![image](https://github.com/azeltov/aml_one_lake/assets/5873303/51c5babd-843b-44d5-af43-2ee74043ae59)
 
+Follow the "Configure data access" section in the article  to setup onelake and access before running the notebook: 
+
+https://learn.microsoft.com/en-us/azure/machine-learning/how-to-use-batch-fabric?view=azureml-api-2
+
+
+
